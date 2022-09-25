@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fname": "Bavadharani",
+      "lname": "M P",
+      "email": "bava@gmail.com"
+    },
+    {
+      "id": 2,
+      "fname": "Vishal Pranav",
+      "lname": "T",
+      "email": "vishal@gmail.com"
+    },
+    {
+      "id": 3,
+      "fname": "Deepak vasan",
+      "lname": "M",
+      "email": "deepak@gmail.com"
+    },
+    {
+      "id": 4,
+      "fname": "aishvarya",
+      "lname": "R",
+      "email": "aishu@gmail.com"
+    }
+  ]
+}

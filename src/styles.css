@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    color: black;
+    /* background-color: bisque; */
+    background-image: url(https://img.freepik.com/free-vector/abstract-pink-geometric-shapes-background_1035-23060.jpg?w=2000);
+   
+    
+}
+.base1{
+    background-color: white;
+    text-emphasis-color: rgb(96, 177, 38);
+
+    
+}
+.centered {
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
